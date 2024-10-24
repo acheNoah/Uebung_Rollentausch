@@ -4,6 +4,12 @@ public class Main {
     public static void main(String[] args) {
         System.out.printf("Hello and welcome!");
 
+        System.out.println("Luuuuuuuuuuuukas");
+        System.out.println("Ich liebe Sie");
+        System.out.println("Mein Schatz");
+        System.out.println("Mein Love");
+        System.out.println("Mein Kärtner");
+
         for (int i = 1; i <= 5; i++) {
             System.out.println("i = " + i);
             System.out.println("Lukas stinkt");
