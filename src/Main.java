@@ -28,6 +28,7 @@ public class Main {
                 System.out.println("Ok cool");
             } else {
                 System.out.println("nicht cool");
+                System.out.println("hallo welt");
             }
         }
     }
